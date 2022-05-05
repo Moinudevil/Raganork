@@ -1,5 +1,5 @@
 {
-  "name": "raganork",
+  "name": "DEVIL SER",
   "version": "4.0.1",
   "description": "Raganork whatsapp bot- Modified version of Whatsasena by Yusuf usta.",
   "main": "./Raganork/bot.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/Raganork.git"
+    "url": "git+https://github.com/Moinudevil/Raganork.git"
   },
   "keywords": [
     "whatsapp",
